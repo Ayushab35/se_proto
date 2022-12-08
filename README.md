@@ -1,14 +1,13 @@
 ﻿# Introduction
-Project was created by participating team in extension engine spring camp.
-E-Learning is scalable web application written in python (django).
-E-Learning was designed to provide pleasant experience for users.
+EShiksha is scalable web application written in python (django).
+EShiksha was designed to provide pleasant experience for users.
 <img src="https://github.com/Bcoolie/eLearning/blob/master/users/static_in_users/static_files/img/home-sample.png" width="720" height="400">
 # Installation
 Assuming you use virtualenv, follow these steps to download and run the
-e-learning application in this directory:
+EShiksha application in this directory:
 
     $ git clone https://github.com/avuletica/eLearning.git
-    $ cd eLearning
+    $ cd SE_PROTO
     $ virtualenv venv
     $ source ./venv/bin/activate
     $ pip install -r requirements
